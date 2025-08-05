@@ -27,7 +27,7 @@ Este projeto é um desafio realizado pela *Oracle Academy* juntamente com a *Alu
 ## 🌐 Acesse o Projeto
 
 O jogo está hospedado no **Vercel**:  
-👉 [Clique aqui para jogar](https://jogo-do-numero-secreto-1ten.vercel.app/)
+👉 [Clique aqui para jogar](https://challenge-amigo-secreto-pied-nu.vercel.app/)
 
 ---
 
